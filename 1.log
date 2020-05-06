@@ -1,0 +1,13 @@
+#### onStart ####
+SWOOLE 4.4.8 服务已启动
+master_pid: 18534
+manager_pid: 18535
+########
+
+#### onManagerStart ####
+
+#### onWorkStart ####
+
+#### onWorkStart ####
+
+[2019-11-21 12:42:11 #18534.2]	INFO	Server is shutdown now

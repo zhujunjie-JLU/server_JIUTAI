@@ -1,0 +1,11 @@
+<?php
+define("APPID","wx6b0b53f88cf4a8a2");
+define("SECRET","708cbad48339dcd4e461d2f1e9718aba");
+define("EXCELBASEPATH","http://39.96.58.35/");
+define("FILESAVEPATH","/var/www/html/");
+define("JPGSAVEPATH","/root/xjjpg/");
+define("MYSQL_HOST","127.0.0.1");
+define("MYSQL_PORT","3306");
+define("MYSQL_USER","root");
+define("MYSQL_PASS","root");
+define("MYSQL_DBNAME","xj");
